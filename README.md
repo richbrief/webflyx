@@ -1,8 +1,8 @@
-#Webflyx
+# Webflyx
 
 This repo is a personal sandbox used for practicing version control using Git and GitHub, based on exercises in a Git course provided by [Boot.dev](https://boot.dev/). These files are for **practice purposes only,**, and contain no production-level files. 
 
-## 🛠 Topics Practiced
+## Topics Practiced
 - Initializing and cloning repositories
 - Staging and committing changes
 - Working with branches (creating, merging, rebasing)
